@@ -1,0 +1,1 @@
+"""Archaeological ceramic clustering pipeline."""
