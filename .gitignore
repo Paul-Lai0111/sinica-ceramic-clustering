@@ -1,0 +1,12 @@
+# The sherd data is not public: nothing in data/ is tracked except its README.
+data/*
+!data/README.md
+*.xlsx
+*.xls
+*.csv
+!results/silhouette.csv
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
